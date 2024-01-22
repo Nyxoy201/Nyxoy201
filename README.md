@@ -1,4 +1,4 @@
-## <a id="HI"></a>👋 » Hi, I'm Nyxoy!
+## <a id="HI"></a>👋 » Hi, I'm Nyxoy !
 
 ## <a id="PYTHON"></a>🤖 » A Python Developer !
 <img src="https://cdn3.emoji.gg/emojis/1349-python.png" alt="TryHackMe">
