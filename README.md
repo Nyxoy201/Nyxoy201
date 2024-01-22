@@ -1,3 +1,3 @@
-## <a id="HI"></a>👋 » Hi I'm Nyxoy !
+## <a id="HI"></a>👋 » Hi, I'm Nyxoy!
 
-<script src="https://tryhackme.com/badge/2034583"></script>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Nyxoy.png)](https://tryhackme.com/p/Nyxoy)
