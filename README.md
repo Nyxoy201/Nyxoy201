@@ -4,7 +4,7 @@
 - I am a python developer ! 🌱
 - Also a big fan of CTF ! ✨
   
-## <a id="stats"></a>🤖 » Githubs Stats :
+## <a id="stats"></a>🤖 » Github Stats :
 
 ![Nyxoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyxoy201&show_icons=true&theme=tokyonight)
 ![Nyxoy's GitHub ](https://github-readme-streak-stats.herokuapp.com/?user=Nyxoy201&amp;theme=tokyonight)
