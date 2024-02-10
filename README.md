@@ -14,3 +14,5 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/Nyxoy201.png" alt="TryHackMe">
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
+
+<img src="https://camo.githubusercontent.com/3992a4fd1214ef607ac7b9f80a83f4349896d270d6e449e89bc510beae5655a6/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f31313536363130313231303037333836373037" data-canonical-src="https://lanyard.cnrad.dev/api/1187438783944216657" style="max-width: 100%;">
