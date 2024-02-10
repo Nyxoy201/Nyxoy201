@@ -13,5 +13,9 @@
 ## <a id="CTF"></a>💻 » CTF Stats : 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Nyxoy201.png" alt="TryHackMe">
 
+## <a id="dc"></a>✨ » Discord : 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1187438783944216657)](https://discord.com/users/1187438783944216657)
+
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
 
