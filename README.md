@@ -15,7 +15,7 @@
 
 ## <a id="dc"></a>✨ » Discord : 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1187438783944216657theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1187438783944216657)
+![Discord Presence](https://lanyard.cnrad.dev/api/1187438783944216657theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
 
