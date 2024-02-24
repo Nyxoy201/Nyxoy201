@@ -4,14 +4,14 @@
 
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
-## Who am I :
+## About Me :
 
 - **Hi, I'm Nyxoy.**
 - **I am a python developer.**
 - **Also a cybersecurity enthusiast.**
 
-## My github stats :
+## My Github Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxoy201&theme=onedark)
-![Nyxoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyxoy201&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxoy201&theme=dark)
+![Nyxoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyxoy201&theme=dark)
 
