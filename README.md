@@ -4,3 +4,6 @@
 
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
+- Hi, I'm Nyxoy.
+- I am a python developer.
+- Also a cybersecurity enthusias.
