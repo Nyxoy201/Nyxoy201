@@ -1,6 +1,5 @@
 <div align="center">
-
-**Hi, I'm Nyxoy**
+# __Hi, I'm Nyxoy__
 </div>
 
 <p align="center">
