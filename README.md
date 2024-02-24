@@ -9,4 +9,4 @@
 - **Also a cybersecurity enthusiast.**
 
 ## My github stats :
-![Nyxoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyxoy201&theme=radical)
+![Nyxoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyxoy201&theme=dark)
