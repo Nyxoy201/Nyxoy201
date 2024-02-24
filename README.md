@@ -6,4 +6,4 @@
 
 - **Hi, I'm Nyxoy.**
 - **I am a python developer.**
-- **Also a cybersecurity enthusias.**
+- **Also a cybersecurity enthusiast.**
