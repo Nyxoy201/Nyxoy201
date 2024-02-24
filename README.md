@@ -4,6 +4,7 @@
 
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
+
 ## About Me :
 
 - **Hi, I'm Nyxoy.**
@@ -19,3 +20,5 @@
 
 - **Discord :** *nyxoy.xyz*
 - **Telegram :** *nyxoy1337*
+
+<h1 align="center"></h1>
