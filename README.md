@@ -10,6 +10,6 @@
 
 ## My github stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxoy201&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxoy201&theme=cobalt)
 ![Nyxoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyxoy201&theme=dark)
 
