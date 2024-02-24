@@ -16,8 +16,13 @@
 
 ## My Github Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxoy201&theme=dark)
-![Nyxoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyxoy201&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxoy201&theme=dark" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nyxoy201&theme=dark" alt="Nyxoy's GitHub stats">
+</p>
 
 ## Contact :
 
