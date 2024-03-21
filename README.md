@@ -27,6 +27,6 @@
 ## Contact :
 
 - **Discord :** *nyxoy.xyz*
-- **Telegram :** *nyxoy1337*
+- **Telegram :** *@MalcatWeb*
 
 <h1 align="center"></h1>
