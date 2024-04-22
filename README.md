@@ -17,7 +17,7 @@
 ## My Github Stats :
 
 <p align="center">
-  ![views](https://komarev.com/ghpvc/?username=Nyxoy201&color=080606)
+  <img src="https://komarev.com/ghpvc/?username=Nyxoy201&color=080606">
 </p>
 
 <p align="center">
