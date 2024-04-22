@@ -16,6 +16,8 @@
 
 ## My Github Stats :
 
+![my views](https://komarev.com/ghpvc/?username=Nyxoy201&color=black)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxoy201&theme=dark" alt="Top Languages">
 </p>
