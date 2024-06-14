@@ -30,7 +30,7 @@
 
 ## Contact :
 
-- **Discord :** *nyxoy.xyz*
+- **Discord :** *88.bits*
 - **Telegram :** *@MalcatWeb*
 
 <h1 align="center"></h1>
