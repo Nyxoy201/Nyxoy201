@@ -30,7 +30,7 @@
 
 ## Contact :
 
-- **Discord :** *88.bits*
+- **Discord :** *owaspwn*
 - **Telegram :** *@MalcatWeb*
 
 <h1 align="center"></h1>
