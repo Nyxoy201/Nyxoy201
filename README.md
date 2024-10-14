@@ -30,7 +30,7 @@
 
 ## Contact :
 
-- **Discord :** *owaspwn*
+- **Discord :** *pwnmeow*
 - **Telegram :** *@MalcatWeb*
 
 <h1 align="center"></h1>
